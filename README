@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1412
+
+These are 4 themes I made which I prefer for programming, pyte.vim for example is a light and clear one which uses italic mode for pronouncing something, quite fun when programming python (or any other language).
+The color-themes will be readably in the console I suppose (since I stole parts from other themes), but are intended to use with a gui such as gvim.
